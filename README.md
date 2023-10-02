@@ -11,3 +11,5 @@ modes with a single touch
 
 [Basic Soccer Simulator](https://github.com/radloffh01/PortfolioWorks/tree/main/Final) is a project made in Visual Studio, written in C#. It's a very simple game that takes user 
 input to create teams, and the goal of the game is to score as quickly as possible.
+
+[Let's Play Soccer](https://github.com/radloffh01/PortfolioWorks/blob/main/Let_s%20Play%20Soccer.html) is a text based game that I made with twine. You play as either an attacker or defender and the main objective of the game is to score a goal or don't concede a goal depending on what role you play as.
